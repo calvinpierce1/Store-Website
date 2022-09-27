@@ -112,3 +112,10 @@ div.pills {
 }
 
 
+p.copyright {
+    width: 30%;
+    color: rgb(204, 200, 200);
+    margin-left: 70%;
+    text-align: end;
+    margin-top: 20vw;
+}
